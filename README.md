@@ -1,7 +1,7 @@
 # Naive Bayes From Scratch
 
 ## Part 1
-Providing a python class that implements Gaussian Naive Bayes from scratch.
+Creating a python class that implements Gaussian Naive Bayes from scratch.
 The conditional probabilities are calculated as follows:
 ![CondProb](https://user-images.githubusercontent.com/72609901/147889411-3473813a-daef-4936-97c0-5d4e73ebe18d.png)
 
